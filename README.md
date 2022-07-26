@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h1 align="center">Hi 👋, I'm priyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
