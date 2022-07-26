@@ -1,5 +1,14 @@
 ### Hi there 👋
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 <h1 align="center">Hi 👋, I'm priyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
