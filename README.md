@@ -14,7 +14,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <h1 align="center">Hi 👋, I'm priyam</h1>
-<h3 align="center">A passionate web3 developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamkarn&label=Profile%20views&color=0e75b6&style=flat" alt="priyamkarn" /> </p>
 
