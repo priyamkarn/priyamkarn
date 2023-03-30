@@ -13,8 +13,10 @@
 <p><em>student at kle technological university
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<h1 align="center">Hi 👋, I'm priyam</h1>
-<h3 align="center">A passionate learner from India</h3>
+Find me around the web 🌎 
+- Struggling on <a href="https://leetcode.com/01fe20bcs299/">LeetCode</a> 😍
+- Sharing updates on <a href="https://www.linkedin.com/in/priyam-karn-48b061238/">LinkedIn</a> 😇
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamkarn&label=Profile%20views&color=0e75b6&style=flat" alt="priyamkarn" /> </p>
 
