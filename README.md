@@ -21,7 +21,7 @@ Find me around the web 🌎
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyamkarn" alt="priyamkarn" /></a> </p>
 
-- 🌱 I’m currently learning **WEB3/DevOps**
+- 🌱 I'm currently learning **WEB3/DevOps**
 
 - 📫 How to reach me **priyamkarn54@gmail.com**
 
@@ -44,7 +44,7 @@ Find me around the web 🌎
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*_6ooq0R60ba3UT5c-QVemA.png" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://prisma.io/" target="_blank" rel="noreferrer"> <img src="https://redmonk.com/jgovernor/files/2021/05/Prisma-Logo-Black.png" alt="prisma" width="40" height="40"/> </a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://redis.io/images/redis-white.png" alt="redis" width="40" height="40"/> </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120" alt="redis" width="40" height="40"/> </a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
