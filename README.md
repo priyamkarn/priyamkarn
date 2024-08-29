@@ -14,7 +14,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 Find me around the web 🌎 
-- Struggling on <a href="https://leetcode.com/priyamkarn/">LeetCode</a> 😍
+- Struggling on <a href="https://leetcode.com/priyam_karn/">LeetCode</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/priyam-karn-48b061238/">LinkedIn</a> 😇
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamkarn&label=Profile%20views&color=0e75b6&style=flat" alt="priyamkarn" /> </p>
