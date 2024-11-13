@@ -21,7 +21,7 @@ Find me around the web 🌎
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyamkarn" alt="priyamkarn" /></a> </p>
 
-- 🌱 I'm currently learning **WEB3/DevOps**
+- 🌱 I'm currently looking for **Full Stack/Devops Jobs**
 
 - 📫 How to reach me **priyamkarn54@gmail.com**
 
