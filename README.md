@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <div align="center">
 <img height="100" width="300" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
