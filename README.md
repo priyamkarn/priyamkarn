@@ -203,8 +203,10 @@ alt="Developer animation"
 ## 🌍 Open-Source Contributions
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=priyamkarn&limit=6&theme=transparent&order_by=contributions&combine_all_yearly_contributions=true"
-    alt="Priyam Karn open-source contributions"
-  />
+  <a href="https://github.com/priyamkarn">
+    <img
+      src="https://github-contribution-card.vercel.app/api?username=priyamkarn&limit=8&order_by=contributions&theme=transparent"
+      alt="Priyam Karn open-source repository contributions"
+    />
+  </a>
 </p>
