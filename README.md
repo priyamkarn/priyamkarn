@@ -200,29 +200,11 @@ alt="Developer animation"
 
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=priyamkarn&hide_border=true"
-    alt="Priyam Karn GitHub contribution streak"
-  />
-</p>
-
----
+## 🌍 Open-Source Contributions
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"
-    width="60"
-    alt="Handshake animation"
+    src="https://github-contributor-stats.vercel.app/api?username=priyamkarn&limit=6&theme=transparent&order_by=contributions&combine_all_yearly_contributions=true"
+    alt="Priyam Karn open-source contributions"
   />
 </p>
-
-<p align="center">
-  <em>
-    <b>I enjoy connecting with developers and contributing to interesting projects.</b>
-    Feel free to reach out and say hello! 😊
-  </em>
-</p>
-🌍 Open-Source Contribution Activity
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyamkarn&theme=github-compact&hide_border=true&area=true" alt="Priyam Karn GitHub contribution activity graph" /> </p>
