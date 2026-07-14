@@ -188,16 +188,14 @@ alt="Developer animation"
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=priyamkarn&show_icons=true&locale=en&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyamkarn&theme=transparent"
     alt="Priyam Karn GitHub statistics"
   />
-
-<img
- width="48%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamkarn&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5"
- alt="Priyam Karn most-used languages"
-/>
-
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyamkarn&theme=transparent&exclude=Jupyter%20Notebook"
+    alt="Priyam Karn most-used languages"
+  />
 </p>
 
 ## 🌍 Open-Source Contributions
