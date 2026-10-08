@@ -35,7 +35,6 @@ alt="Developer animation"
 * 🌱 Currently learning scalable backend systems, distributed systems and AI
 * 🛠️ Building projects with React, Node.js, .NET, Redis, Kafka and databases
 * 🌍 Contributing to open-source projects
-* 💻 Solving problems on [LeetCode](https://leetcode.com/u/priyam_karn/)
 * 📫 Reach me at **[priyamkarn54@gmail.com](mailto:priyamkarn54@gmail.com)**
 
 <br clear="right"/>
