@@ -55,19 +55,6 @@ alt="Developer animation"
   />
 </p>
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.geeksforgeeks.org/user/priyamkarn54/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="GeeksforGeeks"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -136,7 +123,7 @@ alt="Developer animation"
   </a>
 
   <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/src/images/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
   </a>
 
   <a href="https://graphql.org/" target="_blank">
